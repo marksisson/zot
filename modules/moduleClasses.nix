@@ -1,0 +1,1 @@
+{ moduleClasses = [ "zot" ]; }
